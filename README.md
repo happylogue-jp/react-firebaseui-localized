@@ -4,11 +4,12 @@ React wrapper over firebaseui package with simpler localization
 
 `npm i -s react-firebaseui-localized`
 
-I don't want to build for each language so I get it through the cdn and thats it :)  
+I don't want to build for each language so I get it through the cdn and thats the lib :)  
 see: https://github.com/firebase/firebaseui-web
 
 ## usage
 
+make sure you have firebase in the window object
 
 ```js
 import FirebaseUIAuth from "react-firebaseui-localized";

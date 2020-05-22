@@ -1,6 +1,6 @@
 {
   "name": "react-firebaseui-localized",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "description": "React wrapper over firebaseui package with simpler localization",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greg-schrammel/react-firebaseui-localized.git"
+    "url": "git+https://github.com/happylogue-jp/react-firebaseui-localized"
   },
   "keywords": [
     "firebase",
@@ -22,9 +22,9 @@
   "author": "gregory schrammel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greg-schrammel/react-firebaseui-localized/issues"
+    "url": "https://github.com/happylogue-jp/react-firebaseui-localized/issues"
   },
-  "homepage": "https://github.com/greg-schrammel/react-firebaseui-localized#readme",
+  "homepage": "https://github.com/happylogue-jp/react-firebaseui-localized#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
